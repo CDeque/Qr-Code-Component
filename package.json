@@ -1,0 +1,12 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+
+ 
+}
