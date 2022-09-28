@@ -25,4 +25,4 @@ Thanks for checking out this front-end coding challenge.
 ## Author
 
 - Frontend Mentor - [@CDeque](https://www.frontendmentor.io/profile/CDeque)
-- Github - [CDeque] (https://github.com/CDeque)
+- Github - [CDeque](https://github.com/CDeque)
